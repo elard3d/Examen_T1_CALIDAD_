@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30517.126
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Examen_T1_CALIDAD", "Examen_T1_CALIDAD\Examen_T1_CALIDAD.csproj", "{8F195C17-7411-42F1-9F4C-40E943DB5D8E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Examen_T1_CALIDAD", "Examen_T1_CALIDAD\Examen_T1_CALIDAD.csproj", "{8F195C17-7411-42F1-9F4C-40E943DB5D8E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Examen_T1_CALIDAD_TESTING", "Examen_T1_CALIDAD_TESTING\Examen_T1_CALIDAD_TESTING.csproj", "{F385353B-1FBC-4587-A0CA-0E26ABC4C268}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{8F195C17-7411-42F1-9F4C-40E943DB5D8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8F195C17-7411-42F1-9F4C-40E943DB5D8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8F195C17-7411-42F1-9F4C-40E943DB5D8E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F385353B-1FBC-4587-A0CA-0E26ABC4C268}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F385353B-1FBC-4587-A0CA-0E26ABC4C268}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F385353B-1FBC-4587-A0CA-0E26ABC4C268}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F385353B-1FBC-4587-A0CA-0E26ABC4C268}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
